@@ -33,9 +33,14 @@ a:focus {
     font-weight: 200;
     letter-spacing: 1px;
   }
-
-#mainNav .navbar-toggler {
-  font-size: 12px;
-  padding: 8px 10px;
-  color: #972121;
-}
+ 
+ /* Jumbotron CSS Custom styles */
+  .jumbotron {
+    background-color: #534e4e;
+  }
+  .jumbotron p{
+    color: whitesmoke;
+   }
+   h1{
+    color: whitesmoke;
+   }
