@@ -46,3 +46,21 @@ a:focus {
    }
 
    /* Skills section CSS*/
+   h2 {
+    display: flex;
+    justify-content: center;
+    border-style: groove;
+    border-color: royalblue;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+   }
+   h5 {
+    color: darkgreen;
+   }
+   img {
+    transition: transform .7s ease-in;
+  }
+  img:hover {
+    transform: rotate(360deg);
+  }
