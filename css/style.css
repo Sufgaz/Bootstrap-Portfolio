@@ -77,3 +77,21 @@ a:focus {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
   }
+  /* about me section CSS */
+  h6 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: royalblue;
+    font-size: calc(1.325rem + .9vw);
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .about p {
+    display: flex;
+    margin: 0 auto;
+    border: 10px;
+    justify-content: center;
+  }
