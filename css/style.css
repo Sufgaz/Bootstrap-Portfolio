@@ -95,3 +95,22 @@ a:focus {
     border: 10px;
     justify-content: center;
   }
+  /* CSS for contct section */
+  .text {
+    background-color: royalblue;
+  }
+  h8 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: royalblue;
+    font-size: calc(1.325rem + .9vw);
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .footer {
+    margin: 10px;
+    border: 10px;
+  }
